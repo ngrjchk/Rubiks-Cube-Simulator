@@ -15,8 +15,7 @@ A program written in Python for 2D/unwrapped-cube type simulation of the classic
 
 ## Usage
 - Use `./src/cube_simulator_full.py` or `./src/Interactive_Simulator_and_Solver.ipynb` to test the simulator.
-- Use `./src/solver.py` to test the solver (currently in progress, file may not be present)
-- Use `./src/table_generators.ipynb` for generating the precomputed tables `Precomputed_Lookup_Tables` folder for exploring them.
+- Use `./src/table_generators.ipynb` for generating the precomputed tables, or explore them from  `Precomputed_Lookup_Tables` folder.
 
 ## License
 This project is licensed under the Apache License, Version 2.0. See the LICENSE file for details.

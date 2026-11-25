@@ -1,11 +1,7 @@
 # Rubiks-Cube-Simulator-and-Solver
 ## Overview
 ![A screenshot of the simulator](https://github.com/ngrjchk/Rubiks-Cube-Simulator-and-Solver/blob/main/simulator_screenshot.png)
-The Rubiks-Cube-Simulator-and-Solver project showcases a custom Rubik's cube simulation and a novel algorithm for solving the puzzle, developed entirely from scratch.
-
-## Features
-- Rubik's cube simulation model
-- Custom solving algorithm (currently in progress)
+A program written in Python for 2D/unwrapped-cube type simulation of the classic Rubik's cube.
 
 ## Getting Started
 1. Clone the repository:
@@ -25,7 +21,7 @@ The Rubiks-Cube-Simulator-and-Solver project showcases a custom Rubik's cube sim
 ## License
 This project is licensed under the Apache License, Version 2.0. See the LICENSE file for details.
 
-## Appendix
+## Appendix - An vague idea for an automatic solver
 
 ### Detailed Report on my "Interpolation" idea for the Rubik's Cube Solver
 

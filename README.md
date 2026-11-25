@@ -21,9 +21,9 @@ A program written in Python for 2D/unwrapped-cube type simulation of the classic
 ## License
 This project is licensed under the Apache License, Version 2.0. See the LICENSE file for details.
 
-## Appendix - An vague idea for an automatic solver
+## Appendix
 
-### Detailed Report on my "Interpolation" idea for the Rubik's Cube Solver
+### A vague idea for an automatic solver - call it "Interpolation"
 
 Firstly, I think that the term "interpolation" aptly captures the essence of my approach: **interweaving and combining individually optimized move sequences to achieve a global solution for the Rubik's Cube.**
 

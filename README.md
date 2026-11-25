@@ -1,4 +1,4 @@
-# Rubiks-Cube-Simulator-and-Solver
+# Rubiks-Cube-Simulator
 ## Overview
 ![A screenshot of the simulator](https://github.com/ngrjchk/Rubiks-Cube-Simulator-and-Solver/blob/main/simulator_screenshot.png)
 A program written in Python for 2D/unwrapped-cube type simulation of the classic Rubik's cube.
